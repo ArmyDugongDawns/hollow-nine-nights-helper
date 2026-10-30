@@ -1,8 +1,10 @@
-<div align="center">
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/5eb9cb1d-40c9-4a4f-a893-741b3fcb71bd" /><div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Special+Elite&weight=600&size=50&pause=450&color=8B0000&center=true&vCenter=true&width=1200&height=140&lines=THE+HOLLOW+HACK+SCRIPT+2026;MONSTER+ESP+%7C+AUTO+RELIC+%7C+AUTO+QUEST;SURVIVE+THE+NINE+NIGHTS" alt="The Hollow Hack Script 2026" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/b2df054c-68a0-4ea0-b1b9-24ea53ec83b8" />
 
 <br/>
+
 
 <img src="https://img.shields.io/badge/Status-UNDETECTED-8B0000?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Version-v1.0-8B0000?style=for-the-badge&labelColor=0D1117" />
